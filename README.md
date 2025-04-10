@@ -34,18 +34,18 @@ yarn start
 
 ## 🧱 개발 환경
 
-- **react** `^19.0.0`
+- **react** `19.0.0`
 
-- **Styled-components** `^6.1.13`
+- **Styled-components** `6.1.13`
 
-- **Firebase** `^11.1.0`
+- **Firebase** `11.1.0`
 
-- **Kakao Maps SDK** `^1.1.27`
+- **Kakao Maps SDK** `1.1.27`
 
-- **EmailJS** `^3.2.0`  
+- **EmailJS** `3.2.0`  
 
-- **Swiper** `^11.2.0`  
+- **Swiper** `11.2.0`  
 
-- **React Calendar** `^5.1.0`  
+- **React Calendar** `5.1.0`  
 
-- **React Date Picker** `^7.5.0`
+- **React Date Picker** `7.5.0`
