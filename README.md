@@ -35,7 +35,7 @@ yarn start
 
 ## 🧱 개발 환경
 
-- **react** `19.0.0`
+- **React** `19.0.0`
 
 - **Styled-components** `6.1.13`
 
