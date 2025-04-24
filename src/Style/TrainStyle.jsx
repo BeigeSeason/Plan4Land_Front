@@ -76,14 +76,15 @@ export const Container = styled.div`
   @media (max-width: 768px) {
     min-width: 80%;
     font-size: 13px;
-    .select-content {
-    }
     .menu-title {
       min-width: 80px !important;
       margin-right: 0 !important;
     }
     .menu-box {
       padding: 5px 0;
+      .select-content {
+        min-width: 0%;
+      }
     }
     .search-button {
       scale: 0.7;
